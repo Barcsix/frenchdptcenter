@@ -1,0 +1,386 @@
+[
+ {
+   "Dpt": "Ain",
+   "ville": "Saint-Martin-du-Mont"
+ },
+ {
+   "Dpt": "Aisne",
+   "ville": "Clacy-et-Thierret"
+ },
+ {
+   "Dpt": "Allier",
+   "ville": "Treban"
+ },
+ {
+   "Dpt": "Alpes-de-Haute-Provence",
+   "ville": "Digne-les-Bains"
+ },
+ {
+   "Dpt": "Hautes-Alpes",
+   "ville": "Saint-Jean-Saint-Nicolas"
+ },
+ {
+   "Dpt": "Alpes-Maritimes",
+   "ville": "Massoins"
+ },
+ {
+   "Dpt": "Ardèche",
+   "ville": "Saint-Joseph-des-Bancs"
+ },
+ {
+   "Dpt": "Ardennes",
+   "ville": "Mazerny"
+ },
+ {
+   "Dpt": "Ariège",
+   "ville": "Brassac"
+ },
+ {
+   "Dpt": "Aube",
+   "ville": "Villechétif"
+ },
+ {
+   "Dpt": "Aude",
+   "ville": "Ladern-sur-Lauquet"
+ },
+ {
+   "Dpt": "Aveyron",
+   "ville": "Pont-de-Salars"
+ },
+ {
+   "Dpt": "Bouches-du-Rhône",
+   "ville": "Saint-Chamas"
+ },
+ {
+   "Dpt": "Calvados",
+   "ville": "May-sur-Orne"
+ },
+ {
+   "Dpt": "Cantal",
+   "ville": "Thiézac"
+ },
+ {
+   "Dpt": "Charente",
+   "ville": "Champniers"
+ },
+ {
+   "Dpt": "Charente-Maritime",
+   "ville": "Saint-Georges-des-Coteaux"
+ },
+ {
+   "Dpt": "Cher",
+   "ville": "Osmoy"
+ },
+ {
+   "Dpt": "Corrèze",
+   "ville": "Corrèze"
+ },
+ {
+   "Dpt": "Corse-du-Sud",
+   "ville": "Santa-Maria-Siché"
+ },
+ {
+   "Dpt": "Haute-Corse",
+   "ville": "Lano"
+ },
+ {
+   "Dpt": "Côte-d'Or",
+   "ville": "Saint-Martin-du-Mont"
+ },
+ {
+   "Dpt": "Côtes-d'Armor",
+   "ville": "Plaine-Haute"
+ },
+ {
+   "Dpt": "Creuse",
+   "ville": "Ahun"
+ },
+ {
+   "Dpt": "Dordogne",
+   "ville": "Notre-Dame-de-Sanilhac"
+ },
+ {
+   "Dpt": "Doubs",
+   "ville": "Chevigney-lès-Vercel"
+ },
+ {
+   "Dpt": "Drôme",
+   "ville": "Saint-Sauveur-en-Diois"
+ },
+ {
+   "Dpt": "Eure",
+   "ville": "Quittebeuf"
+ },
+ {
+   "Dpt": "Eure-et-Loir",
+   "ville": "Nogent-sur-Eure"
+ },
+ {
+   "Dpt": "Finistère",
+   "ville": "Lopérec"
+ },
+ {
+   "Dpt": "Gard",
+   "ville": "Boucoiran-et-Nozières"
+ },
+ {
+   "Dpt": "Haute-Garonne",
+   "ville": "Longages"
+ },
+ {
+   "Dpt": "Gers",
+   "ville": "Ordan-Larroque"
+ },
+ {
+   "Dpt": "Gironde",
+   "ville": "Bordeaux"
+ },
+ {
+   "Dpt": "Hérault",
+   "ville": "Cabrières"
+ },
+ {
+   "Dpt": "Ille-et-Vilaine",
+   "ville": "Betton"
+ },
+ {
+   "Dpt": "Indre",
+   "ville": "Niherne/Saint-Maur"
+ },
+ {
+   "Dpt": "Indre-et-Loire",
+   "ville": "Sorigny"
+ },
+ {
+   "Dpt": "Isère",
+   "ville": "Veurey-Voroize"
+ },
+ {
+   "Dpt": "Jura",
+   "ville": "La Marre"
+ },
+ {
+   "Dpt": "Landes",
+   "ville": "Villenave"
+ },
+ {
+   "Dpt": "Loir-et-Cher",
+   "ville": "Saint-Claude-de-Diray"
+ },
+ {
+   "Dpt": "Loire",
+   "ville": "Poncins"
+ },
+ {
+   "Dpt": "Haute-Loire",
+   "ville": "Saint-Paulien"
+ },
+ {
+   "Dpt": "Loire-Atlantique",
+   "ville": "Notre-Dame-des-Landes"
+ },
+ {
+   "Dpt": "Loiret",
+   "ville": "Saint-Martin-d’Abbat"
+ },
+ {
+   "Dpt": "Lot",
+   "ville": "Soulomès"
+ },
+ {
+   "Dpt": "Lot-et-Garonne",
+   "ville": "Granges-sur-Lot"
+ },
+ {
+   "Dpt": "Lozère",
+   "ville": "Mende"
+ },
+ {
+   "Dpt": "Maine-et-Loire",
+   "ville": "Mûrs-Erigné"
+ },
+ {
+   "Dpt": "Manche",
+   "ville": "Camprond"
+ },
+ {
+   "Dpt": "Marne",
+   "ville": "Saint-Pierre"
+ },
+ {
+   "Dpt": "Haute-Marne",
+   "ville": "Chamarandes-Choignes"
+ },
+ {
+   "Dpt": "Mayenne",
+   "ville": "La Chapelle-Anthenaise"
+ },
+ {
+   "Dpt": "Meurthe-et-Moselle",
+   "ville": "Malleloy"
+ },
+ {
+   "Dpt": "Meuse",
+   "ville": "Récourt-le-Creux"
+ },
+ {
+   "Dpt": "Morbihan",
+   "ville": "Moustoir-Ac"
+ },
+ {
+   "Dpt": "Moselle",
+   "ville": "Guessling-Hémering "
+ },
+ {
+   "Dpt": "Nièvre",
+   "ville": "Saint-Saulge"
+ },
+ {
+   "Dpt": "Nord",
+   "ville": "Coutiches"
+ },
+ {
+   "Dpt": "Oise",
+   "ville": "Fitz-James"
+ },
+ {
+   "Dpt": "Orne",
+   "ville": "Belfonds"
+ },
+ {
+   "Dpt": "Pas-de-Calais",
+   "ville": "Fontaine-lès-Boulans"
+ },
+ {
+   "Dpt": "Puy-de-Dôme",
+   "ville": "Pérignat-lès-Sarliève"
+ },
+ {
+   "Dpt": "Pyrénées-Atlantiques",
+   "ville": "Gurs"
+ },
+ {
+   "Dpt": "Hautes-Pyrénées",
+   "ville": "Gerde"
+ },
+ {
+   "Dpt": "Pyrénées-Orientales",
+   "ville": "Finestret"
+ },
+ {
+   "Dpt": "Bas-Rhin",
+   "ville": "Schnersheim"
+ },
+ {
+   "Dpt": "Haut-Rhin",
+   "ville": "Feldkirch"
+ },
+ {
+   "Dpt": "Rhône",
+   "ville": "Châtillon"
+ },
+ {
+   "Dpt": "Haute-Saône",
+   "ville": "Montigny-lès-Vesoul"
+ },
+ {
+   "Dpt": "Saône-et-Loire",
+   "ville": "Collonge-en-Charollais"
+ },
+ {
+   "Dpt": "Sarthe",
+   "ville": "Le Mans"
+ },
+ {
+   "Dpt": "Savoie",
+   "ville": "Les Avanchers-Valmorel"
+ },
+ {
+   "Dpt": "Haute-Savoie",
+   "ville": "Brizon"
+ },
+ {
+   "Dpt": "Paris",
+   "ville": "Paris "
+ },
+ {
+   "Dpt": "Seine-Maritime",
+   "ville": "Varneville-Bretteville"
+ },
+ {
+   "Dpt": "Seine-et-Marne",
+   "ville": "Quiers"
+ },
+ {
+   "Dpt": "Yvelines",
+   "ville": "Vicq"
+ },
+ {
+   "Dpt": "Deux-Sèvres",
+   "ville": "Mazières-en-Gâtine"
+ },
+ {
+   "Dpt": "Somme",
+   "ville": "Bertangles"
+ },
+ {
+   "Dpt": "Tarn",
+   "ville": "Réalmont"
+ },
+ {
+   "Dpt": "Tarn-et-Garonne",
+   "ville": "Villemade"
+ },
+ {
+   "Dpt": "Var",
+   "ville": "Carcès"
+ },
+ {
+   "Dpt": "Vaucluse",
+   "ville": "Venasque"
+ },
+ {
+   "Dpt": "Vendée",
+   "ville": "La Chaize-le-Vicomte"
+ },
+ {
+   "Dpt": "Vienne",
+   "ville": "Saint-Julien-l’Ars"
+ },
+ {
+   "Dpt": "Haute-Vienne",
+   "ville": "Couzeix"
+ },
+ {
+   "Dpt": "Vosges",
+   "ville": "Uxegney"
+ },
+ {
+   "Dpt": "Yonne",
+   "ville": "Monéteau"
+ },
+ {
+   "Dpt": "Territoire de Belfort",
+   "ville": "Chèvremont"
+ },
+ {
+   "Dpt": "Essonne",
+   "ville": "Lardy"
+ },
+ {
+   "Dpt": "Hauts-de-Seine",
+   "ville": "Boulogne/ Paris"
+ },
+ {
+   "Dpt": "Seine-Saint-Denis",
+   "ville": "Bondy"
+ },
+ {
+   "Dpt": "Val-de-Marne",
+   "ville": "Créteil"
+ },
+ {
+   "Dpt": "Val-d'Oise",
+   "ville": "Auvers-sur-Oise"
+ }
+]
